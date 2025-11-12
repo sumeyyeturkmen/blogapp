@@ -1,0 +1,14 @@
+uuid: 199f8ace-5944-42a4-b806-d325783ba8fc
+langcode: tr
+status: true
+dependencies:
+  module:
+    - user
+_core:
+  default_config_hash: k3aUaZXGDuhkek2TZIee0PApOPTvYZLadziekdyHA5A
+id: user_search
+label: Kullanıcılar
+path: user
+weight: 0
+plugin: user_search
+configuration: {  }

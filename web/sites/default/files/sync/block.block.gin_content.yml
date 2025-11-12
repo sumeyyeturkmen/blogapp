@@ -1,0 +1,22 @@
+uuid: 7dee4387-bf5e-4d1d-b3a4-312ca2d9d1bb
+langcode: tr
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - gin
+_core:
+  default_config_hash: hBHXB7hC05XU7pDYzETt-GUcpFlogK1gkjyAsg0Ym58
+id: gin_content
+theme: gin
+region: content
+weight: 0
+provider: null
+plugin: system_main_block
+settings:
+  id: system_main_block
+  label: 'Ana sayfa içeriği'
+  label_display: '0'
+  provider: system
+visibility: {  }

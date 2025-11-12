@@ -1,0 +1,9 @@
+uuid: ea2e5245-adfd-463d-a1e9-121d3fd602c3
+langcode: tr
+status: true
+dependencies: {  }
+id: tr
+label: Türkçe
+direction: ltr
+weight: 0
+locked: false

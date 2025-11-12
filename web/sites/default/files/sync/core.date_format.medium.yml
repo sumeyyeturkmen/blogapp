@@ -1,0 +1,10 @@
+uuid: bf29dd82-7678-4f79-8c14-686224f6c1a4
+langcode: tr
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: q7pDV2d9qFh1IVqvymOxUUYGSziZDeg961wURC0cSLs
+id: medium
+label: 'Varsayılan orta tarih'
+locked: false
+pattern: 'D, j M Y - H:i'

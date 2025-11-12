@@ -1,0 +1,13 @@
+uuid: 39d6467a-b639-46af-9b45-dc1731093c6c
+langcode: tr
+status: true
+dependencies:
+  module:
+    - user
+_core:
+  default_config_hash: 1TFiplNN7Wmj_DtVLLLP-NLPYpZJdAswKY-vTrYgFyo
+id: user.register
+label: Kaydol
+description: null
+targetEntityType: user
+cache: true

@@ -1,0 +1,13 @@
+uuid: b299c351-742f-4a7a-b6cc-033f3e867b9a
+langcode: tr
+status: false
+dependencies:
+  module:
+    - node
+_core:
+  default_config_hash: QJ2aZ1xfVf59aq6Pz5X7fyUOa2HxuCoTwQ_RQjoulAU
+id: node.full
+label: 'Tüm içerik'
+description: ''
+targetEntityType: node
+cache: true

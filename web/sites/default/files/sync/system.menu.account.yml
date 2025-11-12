@@ -1,0 +1,10 @@
+uuid: 14aa4579-489e-46b9-8cad-1f43e24aba8f
+langcode: tr
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: M_Bh81osDyUQ4wV0GgU_NdBNqkzM87sLxjaCdFj9mnw
+id: account
+label: 'Kullanıcı hesap menüsü'
+description: 'Etkin kullanıcı hesabı ile ilişkili bağlantılar'
+locked: true

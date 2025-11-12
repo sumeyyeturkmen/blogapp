@@ -1,0 +1,13 @@
+uuid: 0090eb42-43a6-4b61-94f8-cf8bbe72553e
+langcode: tr
+status: true
+dependencies:
+  module:
+    - comment
+_core:
+  default_config_hash: lfyE_snmvfg_EQ3VDyhUtGAXgmqtEiqa46I3bTMg8DU
+id: comment_save_action
+label: 'Yorumu kaydet'
+type: comment
+plugin: 'entity:save_action:comment'
+configuration: {  }

@@ -1,0 +1,10 @@
+uuid: 785ee815-697b-4e8a-87a8-21a934a4074d
+langcode: tr
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: EOQltUQPmgc6UQ2rcJ4Xi_leCEJj5ui0TR-12duS-Tk
+id: html_date
+label: 'HTML Tarihi'
+locked: true
+pattern: Y-m-d

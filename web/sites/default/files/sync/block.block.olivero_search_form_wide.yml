@@ -1,0 +1,23 @@
+uuid: 3cb37a06-0346-4869-b074-133b9ecda7f7
+langcode: tr
+status: true
+dependencies:
+  module:
+    - search
+  theme:
+    - olivero
+_core:
+  default_config_hash: pbbed0hdqGDF-_QWVVTWRAwgDIotFuAvWH5mWUZu0fA
+id: olivero_search_form_wide
+theme: olivero
+region: secondary_menu
+weight: -5
+provider: null
+plugin: search_form_block
+settings:
+  id: search_form_block
+  label: 'Arama formu (geniş)'
+  label_display: '0'
+  provider: search
+  page_id: null
+visibility: {  }

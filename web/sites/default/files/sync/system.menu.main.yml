@@ -1,0 +1,10 @@
+uuid: 78e71499-973b-4812-8e67-f10e7024b99e
+langcode: tr
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Q2Ra3jfoIVk0f3SjxJX61byRQFVBAbpzYDQOiY-kno8
+id: main
+label: 'Ana gezinti menüsü'
+description: 'Site bölümleri bağlantıları'
+locked: true

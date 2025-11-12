@@ -1,0 +1,10 @@
+uuid: ac8aed3d-9781-4dc6-85fd-c0d26ed91dce
+langcode: tr
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 7yrlW5z9zdg2eBucB2GPqXKSMQfH9lSRSO4DbWF7AFc
+id: footer
+label: 'Alt bilgi'
+description: 'Site bilgileri bağlantıları'
+locked: true

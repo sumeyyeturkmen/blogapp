@@ -1,0 +1,22 @@
+uuid: 3fbcc6e8-9564-46fb-a0d0-43fd9a1e708e
+langcode: tr
+status: true
+dependencies:
+  theme:
+    - claro
+_core:
+  default_config_hash: 2L0geP-ixCbCkEpW6BVF6H7vDUZN4ea07_Y9CociQm4
+id: claro_secondary_local_tasks
+theme: claro
+region: pre_content
+weight: 0
+provider: null
+plugin: local_tasks_block
+settings:
+  id: local_tasks_block
+  label: 'İkincil sekmeler'
+  label_display: '0'
+  provider: core
+  primary: false
+  secondary: true
+visibility: {  }

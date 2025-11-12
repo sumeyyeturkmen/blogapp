@@ -1,0 +1,14 @@
+uuid: df89260a-8ade-4e2c-88b2-74cf16cc0e0d
+langcode: tr
+status: true
+dependencies:
+  module:
+    - help
+_core:
+  default_config_hash: RZ-bcSekNSsAbIPLW7Gmyd3uUjIOSrPvnb8RCCZYJm8
+id: help_search
+label: Yardım
+path: help
+weight: 0
+plugin: help_search
+configuration: {  }

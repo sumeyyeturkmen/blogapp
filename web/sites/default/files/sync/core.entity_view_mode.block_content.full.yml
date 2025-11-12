@@ -1,0 +1,13 @@
+uuid: 9c760d17-5dfb-40c7-85db-17cfcaa98a9a
+langcode: tr
+status: false
+dependencies:
+  module:
+    - block_content
+_core:
+  default_config_hash: Q7yUUYeRLByl-MCGveKKF_KhAtNICLCMJuKWfugCvso
+id: block_content.full
+label: Tam
+description: ''
+targetEntityType: block_content
+cache: true

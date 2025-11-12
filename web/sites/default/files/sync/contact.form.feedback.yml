@@ -1,0 +1,14 @@
+uuid: 75ccb012-6a0e-4117-be91-68606e97c054
+langcode: tr
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: vymHlgJy26BuI5GGj9-IXjwR3dRC5C0tij4BpWJnoqw
+id: feedback
+label: 'Web sitesi geri bildirimi'
+recipients:
+  - sumeyye3839@gmail.com
+reply: ''
+weight: 0
+message: 'İletiniz gönderildi.'
+redirect: ''

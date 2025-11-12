@@ -1,0 +1,13 @@
+uuid: bc5c3a8c-9678-443b-980e-3fc6bc014563
+langcode: tr
+status: false
+dependencies:
+  module:
+    - node
+_core:
+  default_config_hash: d8wBEm7XvJ6H3S0IneDD9PfTBklPIH7GMpxElVemPf8
+id: node.search_result
+label: 'Aranan ifadenin vurgulandığı arama sonucu'
+description: ''
+targetEntityType: node
+cache: true

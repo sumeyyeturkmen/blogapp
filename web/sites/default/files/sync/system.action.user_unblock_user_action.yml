@@ -1,0 +1,13 @@
+uuid: 0fef167f-8d3d-455a-b57f-64e316a51e56
+langcode: tr
+status: true
+dependencies:
+  module:
+    - user
+_core:
+  default_config_hash: SPsUXsR3Rc8d1y3gewzaAKWa1ncea_ywXX3f7LTn7k0
+id: user_unblock_user_action
+label: 'Seçilmiş kullanıcı hesaplarının engellemesini kaldır'
+type: user
+plugin: user_unblock_user_action
+configuration: {  }
